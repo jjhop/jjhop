@@ -1,5 +1,7 @@
 I'm developer. 
 
+I use Java (mostly), Clojure, Common Lisp, Racket, Python, Ruby, Rust, Go, Erlang, Elixir. I teach programming in Java and Python.
+
 For more info check:
 * https://jjhop.info <- my dev site
 * https://www.linkedin.com/in/rafal-kotusiewicz/ <- my LI profile
