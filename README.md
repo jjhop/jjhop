@@ -1,6 +1,6 @@
 I'm professional software developer from 2000.
 
-I use mostly Java, Python, Ruby, C, Go (most recent started Zig and Odin). Others I use/used: Clojure, Common Lisp, Racket, Rust, Erlang, Elixir.
+I use mostly Java, Python, Ruby, C, Go. Others I use/used: Clojure, Common Lisp, Racket, Rust, Erlang, Elixir.
 
 Other interests:
  * woodworking
